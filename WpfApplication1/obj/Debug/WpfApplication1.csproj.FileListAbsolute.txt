@@ -1,0 +1,105 @@
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\Db.mdf
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\Db_log.ldf
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.dll
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.xml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\AlbümEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\AlbümEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\SanatçıEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\SanatçıEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\ParçaTürWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\ParçaTürWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\ParçaEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\ParçaEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\PuanWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\PuanWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\TürEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\WpfApplication1\WpfApplication1\obj\Debug\TürEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaTürWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\PuanWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\SanatçıEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\TürEkleWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\App.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\Db.mdf
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\Db_log.ldf
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.dll
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.xml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaTürWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\PuanWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\SanatçıEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\TürEkleWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümlerWindow.g.cs
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümlerWindow.baml
+D:\Ogrenci Dosyalari\56\2.Sınav Ornekler\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Ogrenci Dosyalari\56\VeriTabanı Spofity\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Ogrenci Dosyalari\56\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\Db.mdf
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\Db_log.ldf
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.dll
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.xml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümEkleWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümlerWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaEkleWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaTürWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\PuanWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\SanatçıEkleWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\TürEkleWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\App.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümEkleWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\AlbümlerWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaEkleWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\ParçaTürWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\PuanWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\SanatçıEkleWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\TürEkleWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Spofity\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

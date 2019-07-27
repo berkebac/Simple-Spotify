@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApplication1.SanatçıEkleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="SanatçıEkleWindow" Height="223.699" Width="302">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="43,23,0,0" TextWrapping="Wrap" Text="Sanatçı Adı :" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbsanatçıadı" HorizontalAlignment="Left" Height="23" Margin="124,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Tamam" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="103,153,0,0" Click="button_Click"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="25,56,0,0" TextWrapping="Wrap" Text="Sanatçı Foto. :" VerticalAlignment="Top"/>
+        <Image x:Name="imgafiş" HorizontalAlignment="Left" Height="56" Margin="115,56,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnafişekle" Content="..." HorizontalAlignment="Left" Height="25" Margin="206,56,0,0" VerticalAlignment="Top" Width="38" Click="btnafişekle_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApplication1.ParçaEkleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="ParçaEkleWindow" Height="235" Width="300">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="50,89,0,0" TextWrapping="Wrap" Text="Parça Adı :" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbparçaadı" HorizontalAlignment="Left" Height="23" Margin="124,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btntamam" Content="Tamam" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="94,163,0,0" Click="button_Click"/>
+        <ComboBox x:Name="cmbalbüm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="124,46,0,0" DisplayMemberPath="AlbümAdı"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="43,52,0,0" TextWrapping="Wrap" Text="Albüm Adı :" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="36,126,0,0" TextWrapping="Wrap" Text="Parça Süresi :" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbparçasüresi" HorizontalAlignment="Left" Height="23" Margin="124,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="40,20,0,0" TextWrapping="Wrap" Text="Sanatçı Adı :" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tbsanatçı" HorizontalAlignment="Left" Margin="124,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>
